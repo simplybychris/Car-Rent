@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "auth": "cd auth_service && npm start",
+        "salon": "cd salon_service && npm start",
+        "start": "concurrently \"npm run auth\" \"npm run salon\" "
+    },
+    "devDependencies": {
+        "concurrently": "^1.0.0"
+    }
+}

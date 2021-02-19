@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "5ffb94bb866fd40e5c161d85"
+  },
+  "UserId": "5ffb8c82c8cd5e568c86ebbf",
+  "SalonId": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffdf3b618269e316013ed4f"
+  },
+  "UserId": "5ffdf39f18269e316013ed4e",
+  "__v": 0
+}]

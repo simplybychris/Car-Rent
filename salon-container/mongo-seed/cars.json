@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "60074b1cb6cb6a619096d043"
+  },
+  "Brand": "Audi",
+  "Model": "A4",
+  "Year": 2018,
+  "Capacity": 300,
+  "RegNumber": "CD15325",
+  "SalonId": "600731d43526f63658f62f3b",
+  "CurrentSalonId": "600731d43526f63658f62f3b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60074b37b6cb6a619096d044"
+  },
+  "Brand": "BMW",
+  "Model": "i6",
+  "Year": 2018,
+  "Capacity": 500,
+  "RegNumber": "AB15325",
+  "SalonId": "600731d43526f63658f62f3b",
+  "CurrentSalonId": "600731d43526f63658f62f3b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6010a105b6ee86269c132239"
+  },
+  "Brand": "Acura",
+  "Model": "TSX",
+  "Year": 2009,
+  "Capacity": 41,
+  "RegNumber": "VY77432",
+  "SalonId": "600731d43526f63658f62f3b",
+  "CurrentSalonId": "600731d43526f63658f62f3b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6010a10cb6ee86269c13223a"
+  },
+  "Brand": "Subaru",
+  "Model": "Justy",
+  "Year": 1989,
+  "Capacity": 74,
+  "RegNumber": "CJ38028",
+  "SalonId": "600731d43526f63658f62f3b",
+  "CurrentSalonId": "600731d43526f63658f62f3b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6010a13bb6ee86269c13223b"
+  },
+  "Brand": "Volkswagen",
+  "Model": "Passat",
+  "Year": 1985,
+  "Capacity": 2,
+  "RegNumber": "EN17248",
+  "SalonId": "600731d43526f63658f62f3b",
+  "CurrentSalonId": "600731d43526f63658f62f3b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6010a145b6ee86269c13223c"
+  },
+  "Brand": "Lexus",
+  "Model": "GS",
+  "Year": 2002,
+  "Capacity": 6,
+  "RegNumber": "EI53054",
+  "SalonId": "600731d43526f63658f62f3b",
+  "CurrentSalonId": "600731d43526f63658f62f3b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6010a17cb6ee86269c13223d"
+  },
+  "Brand": "GMC",
+  "Model": "Sierra 3500",
+  "Year": 2011,
+  "Capacity": 8293,
+  "RegNumber": "CS12126",
+  "SalonId": "600731da3526f63658f62f3c",
+  "CurrentSalonId": "600731da3526f63658f62f3c",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6010a1a1b6ee86269c13223e"
+  },
+  "Brand": "Ford",
+  "Model": "Expedition",
+  "Year": 2002,
+  "Capacity": 5113,
+  "RegNumber": "DK50562",
+  "SalonId": "600731da3526f63658f62f3c",
+  "CurrentSalonId": "600731da3526f63658f62f3c",
+  "__v": 0
+}]

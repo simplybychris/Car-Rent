@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "5ffb8b84474a7d2868e7f33a"
+  },
+  "first_name": "Jan",
+  "last_name": "Kowalski",
+  "email": "test@gmail.com",
+  "password": "$2a$10$blZe6g0lalplzYLKfZPWM.jmeuP7wMueAGK80sU/NcvhbRUoBmA0W",
+  "address": "Nowy adres",
+  "PESEL": 4315356432,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffb8bbb474a7d2868e7f33b"
+  },
+  "first_name": "Kuba",
+  "last_name": "Jakub",
+  "email": "test1@gmail.com",
+  "password": "$2a$10$YS9ve6fSRzo9spIskHNxk.PbaEiOCpLty2y.zUhs3/pXlVHGVa7ji",
+  "address": "Polna 5",
+  "PESEL": 94758392719,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffb8c82c8cd5e568c86ebbf"
+  },
+  "first_name": "Joanna",
+  "last_name": "Nowak",
+  "email": "jnowak@gmail.com",
+  "password": "$2a$10$bS09hBIZHOyZ6s8J.1jo8eoJRTRdXTmPzd/kNAHDzibnJN/FpaxLa",
+  "address": "Wspaniala 10",
+  "PESEL": 95382946213,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffded182f28e97278a62876"
+  },
+  "first_name": "Pawel",
+  "last_name": "Markowski",
+  "email": "pmarkowski@gmail.com",
+  "password": "$2a$10$pnpmENRkirs0ld65uqLqBeV6pRA2QBob5694k1JiM/2dc8ivEj2.S",
+  "address": "Wolna 11",
+  "PESEL": 99583728571,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffdf39f18269e316013ed4e"
+  },
+  "first_name": "Dawid",
+  "last_name": "Driver",
+  "email": "driver@gmail.com",
+  "password": "$2a$10$aHuQCap9W2n/ihzfhiaqDO2UnxrnWxDpuGxRanbgfgXqUmfsfheF.",
+  "address": "Piękna 9",
+  "PESEL": 92363528191,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c4e05cc9d815f144f0af7"
+  },
+  "first_name": "nowy",
+  "last_name": "tester",
+  "email": "nowytester@gmail.com",
+  "password": "$2a$10$kFsTY4jRVbbNm1pWIxr3GuuyY8eEK6z.EVOUY92oIn..Kq25FfsZu",
+  "address": "testowa 15",
+  "PESEL": 95837583912,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c4e6dcc9d815f144f0af8"
+  },
+  "first_name": "nowy",
+  "last_name": "tester2",
+  "email": "nowytester2@gmail.com",
+  "password": "$2a$10$jRwx2SwCACtVPWA8aSKj6Oerv58IhBVnOQldXclNEm57Q2fBZaLA2",
+  "address": "testowa 20",
+  "PESEL": 28572849210,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600f10bafe1ad52280ccd769"
+  },
+  "first_name": "user123",
+  "last_name": "user",
+  "email": "user123@gmail.com",
+  "password": "$2a$10$3p6zxfYe0s6KJN/2LBt.aecn.8WR.OqC.B1pkZu1hGzp3IU3xK4Y.",
+  "address": "Testowa 19",
+  "PESEL": 95738574844,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601aa549fbfc750dfcdf6eff"
+  },
+  "first_name": "Kamil",
+  "last_name": "Konar",
+  "email": "kkonar@gmail.com",
+  "password": "$2a$10$MHepTdn7Qgd/rTLUpi3fjOvHAQZ9SCEGTS4VQISIRq5ltFOJP2PXq",
+  "address": "Fajna 19",
+  "PESEL": 99563728142,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601adda317af5c3564016217"
+  },
+  "first_name": "Tomasz",
+  "last_name": "Kowalczuk",
+  "email": "tkowalczuk@onet.pl",
+  "password": "$2a$10$9nCePka1IziJGLPwyY7hIuRIOFAtjnWHP2JivZVNJKSc1AqGuJQXG",
+  "address": "test12",
+  "PESEL": 95657382951,
+  "__v": 0
+}]
