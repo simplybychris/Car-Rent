@@ -14,3 +14,5 @@ Korzysta z bazy MongoDB
 Wyszukiwanie samochodów dostępnych do rezerwacji
 ## Serwis transportu
 Transportowanie samochodów pomiędzy salonami
+
+Dokumentacja: https://docs.google.com/document/d/1JP0JFywhmMdoFddHlE97mWgtbY7uIgJIZfR9e8juqKA/edit#
